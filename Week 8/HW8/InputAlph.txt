@@ -1,0 +1,14 @@
+dare
+abstract
+basket
+book
+aaa
+day
+cat
+dog
+animal
+zoo
+firebird
+date
+zebra
+elephant
